@@ -17,7 +17,7 @@ Functions are reusable blocks of code that perform specific tasks. They help org
 
 Watch the video lesson for this topic:
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/ScwJBuAF66E" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+https://www.youtube.com/embed/ScwJBuAF66E
 
 **Direct Link:** [Watch on YouTube](https://youtu.be/ScwJBuAF66E)
 

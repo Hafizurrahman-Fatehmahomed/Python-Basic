@@ -16,7 +16,7 @@ Lists are one of the most versatile and commonly used data structures in Python.
 
 Watch the video lesson for this topic:
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/hK7ahe5EKV8" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+https://www.youtube.com/embed/hK7ahe5EKV8
 
 **Direct Link:** [Watch on YouTube](https://youtu.be/hK7ahe5EKV8)
 

@@ -17,7 +17,7 @@ Booleans are a fundamental data type in Python that represent truth values: `Tru
 
 Watch the video lesson for this topic:
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/eibvXWy33sI" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+https://www.youtube.com/embed/eibvXWy33sI
 
 **Direct Link:** [Watch on YouTube](https://youtu.be/eibvXWy33sI)
 

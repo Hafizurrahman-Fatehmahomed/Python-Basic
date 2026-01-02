@@ -16,7 +16,7 @@ Variables are fundamental building blocks in Python programming. They act as con
 
 Watch the video lesson for this topic:
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/jE3A1LZom8w" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+https://www.youtube.com/embed/jE3A1LZom8w
 
 **Direct Link:** [Watch on YouTube](https://youtu.be/jE3A1LZom8w)
 

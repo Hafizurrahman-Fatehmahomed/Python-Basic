@@ -16,7 +16,7 @@ Communication between your program and users is essential in programming. Python
 
 Watch the video lesson for this topic:
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/TvBR0Y6toNM" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+https://www.youtube.com/embed/TvBR0Y6toNM
 
 **Direct Link:** [Watch on YouTube](https://youtu.be/TvBR0Y6toNM)
 

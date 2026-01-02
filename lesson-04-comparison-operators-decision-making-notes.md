@@ -16,7 +16,7 @@ Comparison operators allow you to compare values and make decisions in your prog
 
 Watch the video lesson for this topic:
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Qo3Lbp-I9yc" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+https://www.youtube.com/embed/Qo3Lbp-I9yc
 
 **Direct Link:** [Watch on YouTube](https://youtu.be/Qo3Lbp-I9yc)
 
